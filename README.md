@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there! I'm odlemon</h1>
+<h1 align="center">👋 Hey there! I'm Nyasha</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -11,6 +11,7 @@
 With 7 years of programming experience, I'm passionate about:
 - 💻 Building innovative solutions
 - 🌐 Open source contributions
+- 🚀 Architecturing Large Scale Systems 
 - 🚀 Startup ecosystem
 - 🔧 Crafting elegant code with TypeScript and Go
 
